@@ -1,0 +1,2 @@
+# not-takip
+Not uygulaması
